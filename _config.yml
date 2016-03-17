@@ -1,0 +1,14 @@
+layout_spectrum: 0.4763695
+color:
+  saturation: 0.7223416
+  lightness: 0.1745435
+  brandStrength: 0.8061225
+  brandColors:
+    - '#FEFFFA'
+    - '#030402'
+    - '#434A4B'
+    - '#9B9B99'
+    - '#CF0280'
+  rhythmicContrast: 0.915682
+typography_spectrum: 0.1390978
+name: Bloomys Bits
