@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bloomys Bits]]></title>
+        <description><![CDATA[Bloomys Bits]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 17 Mar 2016 21:17:30 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Having a coffee before seeing The Pearl Fishers at The Sydney Opera House]]></title>
+            <description><![CDATA[<article><h1>Having a coffee before seeing The Pearl Fishers at The Sydney Opera House</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b10408a0-91b6-466c-8c48-96699342ebc4.png"></article>]]></description>
+            <link>undefinedhaving-a-coffee-before-seeing-the-pearl-fishers-at-the-sydne/index.html</link>
+            <guid isPermaLink="false">59fd6f37-0e90-42a2-b633-bc31b6717852</guid>
+            <pubDate>Thu, 17 Mar 2016 21:17:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
